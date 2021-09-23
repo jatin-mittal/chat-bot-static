@@ -3,6 +3,7 @@ function talk(){
       "hi" : "Hello, nice to meet you",
       "How are you" : "Good :)",
       "What can i do for you" : "Please Give me another bot so that i can chat with that.",
+      "Who is jatin" : "He is my devloper . For contact mail at-jatinmittal200107@gmail.com",
       "ok" : "Thank You So Much <3",
       "Bye" : "Okay! Will meet soon. TC:).."
     };
